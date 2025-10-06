@@ -1,2 +1,6 @@
 # python-firstlastname-sort
 A python project that sorts a name from first then last and last then first.
+
+Create a function named sortName(firstname, lastname, sortorder = "firstlast") that has an optional parameter sortorder. This will be defaulted at "firstlast" but the user can also input "lastfirst". If it is left at default, print out the name as "First Last". If they select "lastfirst" print out the name as "Last, First".
+
+Write a program that will ask the user for their first and last name, then supply these to the sortName function for both default and lastfirst sortorder.
